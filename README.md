@@ -14,7 +14,7 @@ This project applies **time series forecasting** techniques to analyze and predi
 - **Final Forecast:** Used `auto_ARIMA` to generate 12-month projections.
 
 ## 🔍 Dataset
-- **Source:** [Kaggle - Tokyo Wholesale Tuna Prices]([https://www.kaggle.com/](https://www.kaggle.com/datasets/tcashion/tokyo-wholesale-tuna-prices))
+- **Source:** [Kaggle - Tokyo Wholesale Tuna Prices]([https://www.kaggle.com/datasets/tcashion/tokyo-wholesale-tuna-prices])
 - **Timeframe:** Monthly data from **2003 to 2017**
 - **Variables:**
   - `date`: Year-month format (e.g., `2010 Jan`)
