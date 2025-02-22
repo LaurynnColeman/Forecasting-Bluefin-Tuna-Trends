@@ -22,3 +22,5 @@ This project applies time series forecasting techniques to analyze and predict t
   - `fleet`: Source of the catch (`Japanese Fleet`)
   - `state`: `Fresh` or `Frozen`
   - `measure`: Price per Kg (in Yen)
+
+### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
