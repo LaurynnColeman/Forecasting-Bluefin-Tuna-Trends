@@ -23,4 +23,7 @@ This project applies time series forecasting techniques to analyze and predict t
   - `state`: `Fresh` or `Frozen`
   - `measure`: Price per Kg (in Yen)
 
+For a detailed walkthrough of the analysis, view the full presentation:
+[View the full presentation here](presentations/Bluefin_Tuna_Price_Analysis_Presentation.pdf)
+
 ### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
