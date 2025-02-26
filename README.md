@@ -24,6 +24,7 @@ This project applies time series forecasting techniques to analyze and predict t
   - `measure`: Price per Kg (in Yen)
 
 ![Project Overview Slide](images/bluefin ppt screenshot.png)
+
 For a detailed walkthrough of the analysis, view the full presentation:
 [View the full presentation here](Final Bluefin Forecast Presentation.pdf)
 
