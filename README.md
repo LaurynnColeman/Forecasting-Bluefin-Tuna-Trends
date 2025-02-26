@@ -23,7 +23,7 @@ This project applies time series forecasting techniques to analyze and predict t
   - `state`: `Fresh` or `Frozen`
   - `measure`: Price per Kg (in Yen)
 
-![Project Overview Slide](images/bluefin%20ppt%20screenshot.png)
+![Project Overview Slide](images/Bluefin%20ppt%20screenshot.png)
 
 For a detailed walkthrough of the analysis, view the full presentation:
 [View the full presentation here](Final%20Bluefin%20Forecast%20Presentation.pdf)
